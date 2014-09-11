@@ -12,11 +12,11 @@ If you are interested in finding out about the [Language Development Project](ht
 
 ---
 
-> University of Chicago
-> Department of Psychology
-> 5848 S. University Avenue
-> Chicago, IL 60637
->
-> Telephone: (773) 834-9914
+> University of Chicago  
+> Department of Psychology  
+> 5848 S. University Avenue  
+> Chicago, IL 60637  
+>  
+> Telephone: (773) 834-9914  
 > Email: language.project@uchicago.edu
 
