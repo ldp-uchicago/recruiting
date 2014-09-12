@@ -1,6 +1,12 @@
-**We are seeking children between the ages of 9 and 12 years old to participate in a multi-year study of language learning.**
+See [`ldp-uchicago.github.io/recruiting/`](http://ldp-uchicago.github.io/recruiting/).
+
 
 ---
+
+
+#### Recruiting for language study
+
+**We are seeking children between the ages of 9 and 12 years old to participate in a multi-year study of language learning.**
 
 Have you ever wondered how children who had a perinatal stroke use language to think and learn? Do all children with brain injury learn and use language in the same way? What are the best ways to help children with unilateral brain injury excel at these skills?
 
